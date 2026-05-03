@@ -1,2 +1,2 @@
-# Assigment 1 - Data Exploration
+# Excel Assigment 1 - Data Exploration
 This Excel file contains a basic data exploration of product sales information, including details such as product ID, product name, brand, price, quantity, and category. It also includes simple statistical calculations like sum, count, average, minimum, and maximum values. Additionally, the file demonstrates text formatting techniques by extracting components such as day, month, and country code from product IDs.
